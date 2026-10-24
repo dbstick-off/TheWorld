@@ -1,0 +1,6 @@
+saves/
+banni.txt
+admin.txt
+*.exe
+*.o
+build/
